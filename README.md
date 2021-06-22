@@ -21,12 +21,9 @@ Esto parece indicar que con *cada* una de las simula-
 ciones llevadas a cabo en este trabajo (correlación y anti-
 correlación en fotones T y R), sólo se puede obtener un
 entendimiento parcial de la naturaleza de la luz, pues sólo
-al reunir los resultados de ambas es posible entrever el com-
-portamiento dual de la misma.
+al reunir los resultados de ambas es posible entrever el comportamiento dual de la misma.
 
-El hecho de visualizar uno u otro comportamiento de-
-pendiendo de un fotón testigo sugiere que la luz tiene siem-
-pre este carácter dual, incluso se ha llegado a hablar del
+El hecho de visualizar uno u otro comportamiento dependiendo de un fotón testigo sugiere que la luz tiene siempre este carácter dual, incluso se ha llegado a hablar del
 fotón como la mı́nima fluctuación en la intensidad de un
 campo electromagnético. Aún cuando se observa una tendencia de g3D(0) hacia el régimen clásico, en todas las ventanas temporales analizadas el valor de g2D(0)=1 acota
 superiormente a la función de correlación con tres detec-
